@@ -1,0 +1,8 @@
+{
+	Filter = {
+		Bundles = (
+			"com.highaltitudehacks.dvia",
+			"com.christine.TargetB",
+		);
+	};
+}
